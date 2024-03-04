@@ -10,7 +10,7 @@
 <h2>Research Needed</h2>
 <ul>
   <li>Movement on two axes</li>
-  <li>Libraries for graphing & how to get coordinates for plotting out of them.</li>
+  <li>Libraries for graphing & how to get coordinates for plotting out of them</li>
 </ul>
 <h2>Success Criteria</h2>
 <p>We will know we are successful if the plotter can plot linear graphs with possible extension to polynomials, rational equations, etc.</p>
