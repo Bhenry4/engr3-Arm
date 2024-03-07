@@ -26,9 +26,25 @@
     <tr>
       <th scope="col">Week of 3/4</th>
       <th scope="col">Week of 3/11</th>
-      
+      <th scope="col">Week of 3/18</th>
+      <th scope="col">Week of 3/25</th>
+      <th scope="col">Week of 4/1</th>
+      <th scope="col">Week of 4/8</th>
+      <th scope="col">Week of 4/15</th>
+      <th scope="col">Week of 4/22</th>
+      <th scope="col">Week of 4/29</th>
+      <th scope="col">Week of 5/6</th>
+      <th scope="col">Week of 5/13</th>
+      <th scope="col">Week of 5/20</th>
+      <th scope="col">Week of 5/27</th>
+      <th scope="col">Week of 6/3</th>
     </tr>
   </thead>
+  <tbody>
+    <tr>
+      <td>Planning/Initial model acquisition</td>
+    </tr>
+  </tbody>
 </table>
 <h2>Success Criteria</h2>
 <p>We will know we are successful if the plotter can plot linear graphs with possible extension to polynomials, rational equations, etc.</p>
