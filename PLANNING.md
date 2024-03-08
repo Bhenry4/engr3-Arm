@@ -43,8 +43,21 @@
   <tbody>
     <tr>
       <td>Planning/Initial model acquisition</td>
+      <td>Axes Prototype</td>
+      <td>CAD for Pen Module</td>
+      <td>Assemble Complete Prototype/Fix Issues</td>
+      <td>Spring Break</td>
+      <td>Research Code/Code</td>
+      <td>Coding</td>
+      <td>Finish Code?</td>
+      <td>Integration/Work Out Issues</td>
+      <td>Documentation</td>
+      <td>Extensions</td>
+      <td>Extensions</td>
+      <td>Extensions</td>
+      <td>Extensions</td>
     </tr>
   </tbody>
 </table>
 <h2>Success Criteria</h2>
-<p>We will know we are successful if the plotter can plot linear graphs with possible extension to polynomials, rational equations, etc.</p>
+<p>We will know we are successful if the plotter can plot linear graphs with possible extension to polynomials, rational equations, etc. and/or letters and/or svgs.</p>
