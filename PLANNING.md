@@ -52,10 +52,10 @@
       <td>Finish Code?</td>
       <td>Integration/Work Out Issues</td>
       <td>Documentation</td>
-      <td>Extensions</td>
-      <td>Extensions</td>
-      <td>Extensions</td>
-      <td>Extensions</td>
+      <td>Extensions/Fixing Issues</td>
+      <td>Extensions/Fixing Issues</td>
+      <td>Extensions/Fixing Issues</td>
+      <td>Extensions/Fixing Issues</td>
     </tr>
   </tbody>
 </table>
