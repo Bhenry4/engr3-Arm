@@ -61,3 +61,6 @@
 </table>
 <h2>Success Criteria</h2>
 <p>We will know we are successful if the plotter can plot linear graphs with possible extension to polynomials, rational equations, etc. and/or letters and/or svgs.</p>
+
+<h2>Post Spring Break Update</h2>
+<p>Coming out of spring break we were running a bit behind, having not quite completed the axes prototype or pen module. We still needed to design most of the pen module, figure out a working end cap design (the initial one failed), and cut the third axis.</p>
