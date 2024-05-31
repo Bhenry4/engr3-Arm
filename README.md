@@ -66,4 +66,4 @@
 <p>Coming out of spring break we were running a bit behind, having not quite completed the axes prototype or pen module. We still needed to design most of the pen module, figure out a working end cap design (the initial one failed), and cut the third axis.</p>
 
 <h1>Final Documentation</h1>
-<p>As of the penultimate week of school, we are most of the way there, </p>
+<p>As of the penultimate week of school, we are most of the way there, lacking only the motor for the top(X) axis, although much of it is untested. We decided to use a servo to actuate the pen, instead of the planned solenoid. We also abandoned the hard stops at the end, as it would be too much work to figure out a working model, and decided to implement them in code. A large contributor to our lack of finishing was the amount of time spent searching for a suitable library for graphing (~1-2 weeks), instead of jumping into the code ourselves. Another issue </p>
