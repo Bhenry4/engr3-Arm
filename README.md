@@ -66,4 +66,17 @@
 <p>Coming out of spring break we were running a bit behind, having not quite completed the axes prototype or pen module. We still needed to design most of the pen module, figure out a working end cap design (the initial one failed), and cut the third axis.</p>
 
 <h1>Final Documentation</h1>
-<p>As of the penultimate week of school, we are most of the way there, lacking only the motor for the top(X) axis, although much of it is untested. We decided to use a servo to actuate the pen, instead of the planned solenoid. We also abandoned the hard stops at the end, as it would be too much work to figure out a working model, and decided to implement them in code. A large contributor to our lack of finishing was the amount of time spent searching for a suitable library for graphing (~1-2 weeks), instead of jumping into the code ourselves. Another issue </p>
+<p>As of the penultimate week of school, we are most of the way there, lacking only the motor for the top(X) axis, although much of it is untested. We decided to use a servo to actuate the pen, instead of the planned solenoid. We also abandoned the hard stops at the end, as it would be too much work to figure out a working model, and decided to implement them in code. A contributor to our lack of finishing was the amount of time spent searching for a suitable library for graphing (~1-2 weeks), instead of jumping into the code ourselves. Another issue we had was that we forgot to account for the placement of the motors in our original design.</p>
+<h2>Final BOM</h2>
+<ul>
+  <li>30.5in Linear Rail/Extruded Aluminum</li>
+  <li>~5in GT2 Timing Belt</li>
+  <li>1x Stepper Motor</li>
+  <li>1x Servo</li>
+  <li>1x Golf Pencil</li>
+  <li>1x Metro M4</li>
+  <li>1x Breadboard</li>
+  <li>5 Bolts & 2 Nuts</li>
+  <li>Acrylic for lasercut baseplate</li>
+  <li>Filament for 3d printed track carriage</li>
+</ul>
