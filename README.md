@@ -78,5 +78,15 @@
   <li>1x Breadboard</li>
   <li>5 Bolts & 2 Nuts</li>
   <li>Acrylic for lasercut baseplate</li>
-  <li>Filament for 3d printed track carriage</li>
+  <li>Filament for 3d printed sliders, pen module, and motor enclosure</li>
 </ul>
+<h2>Wiring Diagram</h2>
+<img src="media/wiringDiagram.png">
+<h2>Code</h2>
+<a href="findPoints.py">findPoints.py</a>
+<a href="runMotor.py">runMotor.py</a>
+<h2>CAD Pictures</h2>
+<img src="media/assemblyBack.png">
+<p>Back view of design</p>
+<img src="media/assemblyFront.png">
+<p>Front view of design</p>
