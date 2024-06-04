@@ -85,8 +85,10 @@
 <h2>Code</h2>
 <a href="findPoints.py">findPoints.py</a>
 <a href="runMotor.py">runMotor.py</a>
-<h2>CAD Pictures</h2>
+<h2>Pictures</h2>
 <img src="media/assemblyBack.png">
 <p>Back view of design</p>
 <img src="media/assemblyFront.png">
 <p>Front view of design</p>
+<img src="media/assembledPicture.jpeg">
+<p>Top view of assembled project</p>
